@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ I am Tebelelo Segwagwa👋
+Passionate Software Developer 
+ Languages: Java, JavaScript,C#,and  Python
+📧 Reach me: Segwagwatebelelo@gmail.com
 <!--
 **Tebelelo25/Tebelelo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
